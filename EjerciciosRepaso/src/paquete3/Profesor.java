@@ -22,8 +22,8 @@ public class Profesor {
         nombre = n;
     }
     
-    public void establecerTipo(String n){
-        tipo = n;
+    public void establecerTipo(String t){
+        tipo = t;
     }
     
     public String obtenerNombre(){
